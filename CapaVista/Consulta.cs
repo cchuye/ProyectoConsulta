@@ -74,6 +74,7 @@ namespace CapaVista
                         int llave = Convert.ToInt32(selectedRow.Cells[0].Value);
                         ctriv.eliminar(llave);
                         MessageBox.Show("Eliminado Exitosamente");
+                        MessageBox.Show("Holaaaaaa");
                     }
                 }
                 else
@@ -118,6 +119,11 @@ namespace CapaVista
             {
                 MessageBox.Show("Registro No Modificado");
             }
+        }
+
+        private void Consulta_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

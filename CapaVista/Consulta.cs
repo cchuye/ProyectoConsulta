@@ -18,7 +18,7 @@ namespace CapaVista
         public Consulta()
         {
             InitializeComponent();
-            MessageBox.Show("Holaaaaaa esto es una prueba");
+            MessageBox.Show("Holaaaaaa esto es una pruebaaa");
         }
 
         public void actualizardatagridview()

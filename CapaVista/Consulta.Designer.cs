@@ -52,12 +52,8 @@ namespace CapaVista
             // 
             this.Dgv_consulta.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.Dgv_consulta.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-<<<<<<< HEAD
             this.Dgv_consulta.Location = new System.Drawing.Point(83, 329);
-=======
-            this.Dgv_consulta.Location = new System.Drawing.Point(43, 354);
->>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414
-            this.Dgv_consulta.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Dgv_consulta.Margin = new System.Windows.Forms.Padding(4);
             this.Dgv_consulta.Name = "Dgv_consulta";
             this.Dgv_consulta.RowHeadersWidth = 51;
             this.Dgv_consulta.Size = new System.Drawing.Size(969, 185);
@@ -66,13 +62,9 @@ namespace CapaVista
             // 
             // BtnConsulta
             // 
-<<<<<<< HEAD
             this.BtnConsulta.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-=======
-            this.BtnConsulta.Font = new System.Drawing.Font("Century Gothic", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
->>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414
             this.BtnConsulta.Location = new System.Drawing.Point(515, 86);
-            this.BtnConsulta.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.BtnConsulta.Margin = new System.Windows.Forms.Padding(4);
             this.BtnConsulta.Name = "BtnConsulta";
             this.BtnConsulta.Size = new System.Drawing.Size(133, 54);
             this.BtnConsulta.TabIndex = 1;
@@ -84,7 +76,7 @@ namespace CapaVista
             // 
             this.btn_ingresar.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_ingresar.Location = new System.Drawing.Point(688, 86);
-            this.btn_ingresar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.btn_ingresar.Margin = new System.Windows.Forms.Padding(4);
             this.btn_ingresar.Name = "btn_ingresar";
             this.btn_ingresar.Size = new System.Drawing.Size(133, 54);
             this.btn_ingresar.TabIndex = 2;
@@ -95,7 +87,7 @@ namespace CapaVista
             // txt_codigo
             // 
             this.txt_codigo.Location = new System.Drawing.Point(173, 50);
-            this.txt_codigo.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_codigo.Margin = new System.Windows.Forms.Padding(4);
             this.txt_codigo.Name = "txt_codigo";
             this.txt_codigo.Size = new System.Drawing.Size(239, 22);
             this.txt_codigo.TabIndex = 3;
@@ -103,7 +95,7 @@ namespace CapaVista
             // txt_nombre
             // 
             this.txt_nombre.Location = new System.Drawing.Point(173, 106);
-            this.txt_nombre.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_nombre.Margin = new System.Windows.Forms.Padding(4);
             this.txt_nombre.Name = "txt_nombre";
             this.txt_nombre.Size = new System.Drawing.Size(239, 22);
             this.txt_nombre.TabIndex = 4;
@@ -111,7 +103,7 @@ namespace CapaVista
             // txt_estado
             // 
             this.txt_estado.Location = new System.Drawing.Point(173, 268);
-            this.txt_estado.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_estado.Margin = new System.Windows.Forms.Padding(4);
             this.txt_estado.Name = "txt_estado";
             this.txt_estado.Size = new System.Drawing.Size(239, 22);
             this.txt_estado.TabIndex = 5;
@@ -119,7 +111,7 @@ namespace CapaVista
             // txt_puesto
             // 
             this.txt_puesto.Location = new System.Drawing.Point(173, 153);
-            this.txt_puesto.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_puesto.Margin = new System.Windows.Forms.Padding(4);
             this.txt_puesto.Name = "txt_puesto";
             this.txt_puesto.Size = new System.Drawing.Size(239, 22);
             this.txt_puesto.TabIndex = 5;
@@ -127,7 +119,7 @@ namespace CapaVista
             // txt_departamento
             // 
             this.txt_departamento.Location = new System.Drawing.Point(173, 215);
-            this.txt_departamento.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.txt_departamento.Margin = new System.Windows.Forms.Padding(4);
             this.txt_departamento.Name = "txt_departamento";
             this.txt_departamento.Size = new System.Drawing.Size(239, 22);
             this.txt_departamento.TabIndex = 6;
@@ -135,36 +127,23 @@ namespace CapaVista
             // label1
             // 
             this.label1.AutoSize = true;
-<<<<<<< HEAD
+            this.label1.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(51, 50);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(38, 17);
-=======
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(51, 50);
-            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(60, 25);
->>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414
+            this.label1.Size = new System.Drawing.Size(56, 26);
             this.label1.TabIndex = 7;
             this.label1.Text = "COD";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-<<<<<<< HEAD
+            this.label2.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(51, 106);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(58, 17);
-=======
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(51, 106);
-            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(87, 25);
->>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414
+            this.label2.Size = new System.Drawing.Size(91, 26);
             this.label2.TabIndex = 8;
             this.label2.Text = "Nombre";
             this.label2.Click += new System.EventHandler(this.label2_Click);
@@ -172,54 +151,33 @@ namespace CapaVista
             // label3
             // 
             this.label3.AutoSize = true;
-<<<<<<< HEAD
+            this.label3.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(51, 161);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(52, 17);
-=======
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(51, 161);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(79, 25);
->>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414
+            this.label3.Size = new System.Drawing.Size(76, 26);
             this.label3.TabIndex = 9;
             this.label3.Text = "Puesto";
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-<<<<<<< HEAD
+            this.label4.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(56, 219);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(42, 17);
-=======
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(56, 219);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(63, 25);
->>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414
+            this.label4.Size = new System.Drawing.Size(62, 26);
             this.label4.TabIndex = 10;
             this.label4.Text = "Depa";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-<<<<<<< HEAD
+            this.label5.Font = new System.Drawing.Font("Microsoft YaHei UI", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(56, 272);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(52, 17);
-=======
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(56, 272);
-            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(79, 25);
->>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414
+            this.label5.Size = new System.Drawing.Size(76, 26);
             this.label5.TabIndex = 11;
             this.label5.Text = "Estado";
             // 
@@ -227,7 +185,7 @@ namespace CapaVista
             // 
             this.button1.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(852, 86);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(133, 54);
             this.button1.TabIndex = 12;
@@ -238,12 +196,8 @@ namespace CapaVista
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.button2.Location = new System.Drawing.Point(605, 182);
-=======
-            this.button2.Location = new System.Drawing.Point(515, 161);
->>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414
-            this.button2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(133, 54);
             this.button2.TabIndex = 13;
@@ -254,12 +208,8 @@ namespace CapaVista
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("Century Gothic", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-<<<<<<< HEAD
             this.button3.Location = new System.Drawing.Point(776, 182);
-=======
-            this.button3.Location = new System.Drawing.Point(688, 161);
->>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414
-            this.button3.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(133, 54);
             this.button3.TabIndex = 14;
@@ -288,7 +238,8 @@ namespace CapaVista
             this.Controls.Add(this.btn_ingresar);
             this.Controls.Add(this.BtnConsulta);
             this.Controls.Add(this.Dgv_consulta);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Consulta";
             this.Text = "Consulta";
             this.Load += new System.EventHandler(this.Consulta_Load);

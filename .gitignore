@@ -455,3 +455,8 @@ TestResult.xml
 *.VisualState.xml
 Version.cs
 Version.h
+
+
+#carpeta
+/obj/Debug
+

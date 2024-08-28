@@ -18,6 +18,7 @@ namespace CapaVista
         public Consulta()
         {
             InitializeComponent();
+            MessageBox.Show("Holaaaaaa esto es una pruebaaa");
         }
 
         public void actualizardatagridview()
@@ -118,6 +119,11 @@ namespace CapaVista
             {
                 MessageBox.Show("Registro No Modificado");
             }
+        }
+
+        private void Consulta_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

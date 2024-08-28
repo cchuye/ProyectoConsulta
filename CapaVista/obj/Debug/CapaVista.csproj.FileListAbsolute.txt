@@ -24,6 +24,7 @@ D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaVista
 D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
 D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.dll
 D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.pdb
+<<<<<<< HEAD
 C:\Users\lafm2\OneDrive\Escritorio\CapacitacionGitHubAuditoria2024\ProyectoConsulta\CapaVista\bin\Debug\CapaVista.dll
 C:\Users\lafm2\OneDrive\Escritorio\CapacitacionGitHubAuditoria2024\ProyectoConsulta\CapaVista\bin\Debug\CapaVista.pdb
 C:\Users\lafm2\OneDrive\Escritorio\CapacitacionGitHubAuditoria2024\ProyectoConsulta\CapaVista\bin\Debug\CapaControlador.dll
@@ -37,3 +38,18 @@ C:\Users\lafm2\OneDrive\Escritorio\CapacitacionGitHubAuditoria2024\ProyectoConsu
 C:\Users\lafm2\OneDrive\Escritorio\CapacitacionGitHubAuditoria2024\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
 C:\Users\lafm2\OneDrive\Escritorio\CapacitacionGitHubAuditoria2024\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.dll
 C:\Users\lafm2\OneDrive\Escritorio\CapacitacionGitHubAuditoria2024\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.pdb
+=======
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.pdb
+>>>>>>> 3cb14e897d39dc34bb55a6e4df4e57f6d4b3a414

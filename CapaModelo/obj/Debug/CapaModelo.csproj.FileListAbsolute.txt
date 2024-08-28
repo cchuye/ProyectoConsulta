@@ -1,0 +1,12 @@
+C:\Users\Doris\Desktop\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Doris\Desktop\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Doris\Desktop\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Doris\Desktop\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Doris\Desktop\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Doris\Desktop\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaModelo\obj\Debug\CapaModelo.pdb

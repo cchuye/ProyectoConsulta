@@ -10,6 +10,8 @@
 *.userosscache
 *.sln.docstates
 
+
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
@@ -431,4 +433,25 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
+#archivo txt
+CapaVista.csproj.FileListAbsolute.txt
+CapaControlador.csproj.FileListAbsolute.txt
+CapaModelo.csproj.FileListAbsolute.txt
+CapaVista.csproj.FileListAbsolute.txt
 
+*.cache
+*.dll
+*.exe
+*.pdb
+/build/
+*.suo
+*.user
+_ReSharper.*/
+*.sdf
+*.opensdf
+*.tlog
+*.log
+TestResult.xml
+*.VisualState.xml
+Version.cs
+Version.h

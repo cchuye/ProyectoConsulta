@@ -52,7 +52,7 @@ namespace CapaVista
             // 
             this.Dgv_consulta.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.Dgv_consulta.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.Dgv_consulta.Location = new System.Drawing.Point(43, 354);
+            this.Dgv_consulta.Location = new System.Drawing.Point(83, 329);
             this.Dgv_consulta.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Dgv_consulta.Name = "Dgv_consulta";
             this.Dgv_consulta.RowHeadersWidth = 51;

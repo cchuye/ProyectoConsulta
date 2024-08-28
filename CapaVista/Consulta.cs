@@ -18,6 +18,7 @@ namespace CapaVista
         public Consulta()
         {
             InitializeComponent();
+            MessageBox.Show("Holaaaaaa esto es una prueba");
         }
 
         public void actualizardatagridview()
@@ -74,7 +75,6 @@ namespace CapaVista
                         int llave = Convert.ToInt32(selectedRow.Cells[0].Value);
                         ctriv.eliminar(llave);
                         MessageBox.Show("Eliminado Exitosamente");
-                        MessageBox.Show("Holaaaaaa");
                     }
                 }
                 else

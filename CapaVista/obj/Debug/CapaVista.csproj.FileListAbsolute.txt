@@ -24,3 +24,16 @@ D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaVista
 D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
 D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.dll
 D:\Octavo Semestre\Análisis de sistemas II\Programas\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\bin\Debug\CapaModelo.pdb
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\d_car\OneDrive\Documentos\GitHub\HEADS\ProyectoConsulta\CapaVista\obj\Debug\CapaVista.pdb
